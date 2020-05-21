@@ -6,7 +6,7 @@
 body{
     background: #403B4A;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, rgba(231, 233, 187, 0.603), rgba(64, 59, 74, 0.603));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, rgba(231, 233, 187, 0.603), rgba(64, 59, 74, 0.603)),url(../img/aplausos.gif); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgba(231, 233, 187, 0.603), rgba(64, 59, 74, 0.603)),url(../proyecto_final/aplausos.gif); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 img{

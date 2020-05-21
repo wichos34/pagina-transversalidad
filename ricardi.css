@@ -19,7 +19,7 @@ header{
     height: 600px;
     background: rgba(0, 179, 219, 0.623);  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, rgba(0, 132, 176, 0.623), rgba(0, 179, 219, 0.623));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, rgba(0, 132, 176, 0.623), rgba(0, 179, 219, 0.623)), url(../img/ecologia1.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgba(0, 132, 176, 0.623), rgba(0, 179, 219, 0.623)), url(../proyecto_final/ecologia1.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 background-size: cover;
 background-attachment: fixed;
 position: relative;

@@ -21,7 +21,7 @@ header{
     height: 400px;
     background: #C33764;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, rgba(29, 37, 113, 0.603), rgba(195, 55, 99, 0.603));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, rgba(29, 37, 113, 0.603), rgba(195, 55, 99, 0.603)),url(../img/mau5.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgba(29, 37, 113, 0.603), rgba(195, 55, 99, 0.603)),url(../proyecto_final/mau5.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 background-size: cover;
 background-attachment: black;
