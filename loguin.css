@@ -1,0 +1,86 @@
+cuerpo {
+    margen : 0 ;
+    relleno : 0 ;
+    fondo : url (.. / img / bg.jpeg) centro superior sin repetición;
+    tamaño de fondo : cubierta;
+    font-family : sans-serif;
+    altura : 100 vh ;
+  }
+  
+  . login-box {
+    ancho : 320 px ;
+    altura : 420 px ;
+    fondo : # 000 ;
+    color : # fff ;
+    arriba : 50 % ;
+    izquierda : 50 % ;
+    posición : absoluta;
+    transformar : traducir ( -50 % ,  -50 % );
+    tamaño de la caja : border-box;
+    relleno : 70 px  30 px ;
+  }
+  
+  . cuadro de inicio de sesión . avatar {
+    ancho : 100 px ;
+    altura : 100 px ;
+    radio de borde : 50 % ;
+    posición : absoluta;
+    arriba : -50px;
+    izquierda : calc ( 50 %  -  50 px );
+  }
+  
+  . login-box  h1 {
+    margen : 0 ;
+    relleno : 0  0  20 px ;
+    alineartexto : centro;
+    tamañodefuente : 22px ;
+  }
+  
+  .etiqueta de cuadro de inicio de sesión  {
+    margen : 0 ;
+    relleno : 0 ;
+    pesodefuente : negrita;
+    pantalla : bloque;
+  }
+  
+  .login-cuadro de  entrada {
+    ancho : 100% ;
+    margeninferior : 20px ;
+  }
+  
+  .login-cuadro de  entrada [ tipo = "text" ] , .input-box  input [ type = "password" ] {
+    borde : ninguno;
+    bordeinferior : 1px sólido #fff ;
+    fondo: transparente;
+    esquema: ninguno;
+    altura: 40px ;
+    color: #fff ;
+    tamaño de fuente : 16px ;
+  }
+  
+  . input -box  input [ type = "submit" ] {
+    borde : ninguno;
+    esquema : ninguno;
+    altura : 40px ;
+    fondo : #b80f22 ;
+    color : #fff ;
+    tamaño de fuente: 18px ;
+    radio de borde: 20px ;
+  }
+  
+  .input-box  input [ type = "submit" ]:hover {
+    cursor : puntero;
+    fondo: #ffc107 ;
+    color: #000 ;
+  }
+  
+  .login-box  a {
+    decoración de texto: ninguno;
+    tamaño de fuente :12px;
+    altura de línea :20px;
+    color :gris oscuro;
+  }
+  
+  .login-box  a :hover {
+    color : #fff ;
+  }

@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #403B4A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, rgba(231, 233, 187, 0.603), rgba(64, 59, 74, 0.603));  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, rgba(231, 233, 187, 0.603), rgba(64, 59, 74, 0.603)),url(../img/aplausos.gif); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+img{
+    width: 100%;
+    height: 600px;
+}
+
+header .texto{
+    display: flex;
+    height: 530px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+     flex-direction: column;
+     text-align: center;    
+}
+.texto h1{
+    font-size: 50px;
+    color: rgb(241, 7, 163);
+
+}
+.texto h2{
+    font-size: 40px;
+    font-weight: 300;
+    color: rgb(239, 243, 18);
+
+}
+.texto h3{
+    font-size: 30px;
+    color: chartreuse;
+}
